@@ -1,0 +1,1 @@
+Esse projeto tem como intuito de mostrar uma tela com amostragens de pokemons, usando uma api online chamada https://pokeapi.co/ , nesse projeto foi utilizado o framework NextJs com a promise axios.
